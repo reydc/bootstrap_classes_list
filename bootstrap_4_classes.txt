@@ -1058,6 +1058,9 @@
 .table-reflow
 .table-sm
 .table-striped
+.text-left
+.text-right
+.text-center
 .text-xs-left
 .text-xs-right
 .text-xs-center

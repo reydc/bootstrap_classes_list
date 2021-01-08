@@ -402,6 +402,9 @@
 .table-bordered
 .table-responsive
 .table-striped
+.text-left
+.text-right
+.text-center
 .text-capitalize
 .text-center
 .text-danger
