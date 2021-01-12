@@ -1,4 +1,4 @@
-# bootstrap_classes_list
+# List of Bootstrap and Flexbox Classes
 
 Line by line of Bootstrap and Flexbox classes from the sources listed below, plus some additions
 
